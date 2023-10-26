@@ -1,0 +1,36 @@
+# Footer content is organized in columns.
+# You can also add a small print license statement at the bottom.
+
+ 
+# Columns (the more you add, the narrower they will be)
+  # EXAMPLE
+  #- name: Group name
+  #  description: |
+  #    An optional description. Can be markdown
+  #  links: # optional as well
+  #  - text: link title
+  #    href: http://example.com
+  #  - text: link title 2
+  #    href: http://example2.com
+  #  connectIcons: true # optional - show social icons (defined in _config.yml)
+columns:
+  - description: Partners
+    links:
+    - text: GBIF North America Nodes
+      href: https://www.gbif.org/the-gbif-network/north-america
+    - text: Portal Collaborators
+      href: https://hp-north-america.gbif-staging.org/about#collaborators
+    - text: GBIF.org
+      href: https://www.gbif.org/
+
+  - name: Contact
+    description: | # Can be Markdown
+      [Create a new GitHub Issue](https://github.com/gbif/hp-north-america/issues/new) to request a feature, report a bug, or provide feedback.
+
+#  - name: Contact
+    description: | # Can be Markdown
+      * [Helpdesk](mailto:gbif.na.helpdesk@gmail.com)
+      * [Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw)
+    connectIcons: false
+# other: |
+  [Privacy policy](/privacy)
