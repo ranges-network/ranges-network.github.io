@@ -3,7 +3,7 @@ title: Ranges                        # Title in top navigation bar (navbar) and 
 description: Mobilizing mammalian trait data from western North America # Site description in <head>
 author: Ranges                    # Used for copyright statement in footer
 url: "https://ranges-network.github.io/"  # No slash at the end
-# baseurl: "/communityofpractice"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
+baseurl: "/home.md"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 # Change url: to https://ranges-network.org/ once site is established
