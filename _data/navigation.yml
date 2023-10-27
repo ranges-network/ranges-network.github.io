@@ -1,17 +1,17 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: About
-  href: /about
+  href: /about/
 - text: Core Team
-  href: /team
+  href: /team/
 - text: Participants
-  href: /participants
+  href: /participants/
 - text: Imaging Awards
-  href: /awards
-
-#  menu: # Dropdown menu (one level deep only)
-  - text: GBIF NA Regional Help Desk
-    href: mailto:gbif.na.helpdesk@gmail.com
+  href: /awards/
+- text: Resources
+  menu:
+  - text: GBIF NA Regional Help Desk (email)
+    href: mailto:gbif.na.helpdesk@gmail.com # mailto is necessary here
   - text: GBIF Mentors and Trainers
     href: https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers
   - text: GBIF Biodiversity Open Data Ambassadors
