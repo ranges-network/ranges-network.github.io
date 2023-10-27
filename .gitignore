@@ -1,0 +1,9 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.vscode/settings.json
+.DS_Store
+Gemfile
+Gemfile.lock
