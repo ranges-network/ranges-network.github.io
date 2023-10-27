@@ -10,11 +10,11 @@ permalink: /
 
 ## The Ranges Project
 
-Ranges seeks to digitize traits from over one million mammal specimens from 19 natural history museums, with a focus on western North America.
+![Ranges Logo](/assets/images/ranges-logo.png){:style="float: right;margin-right: 7px}Ranges seeks to digitize traits from over one million mammal specimens from 19 natural history museums, with a focus on western North America.
 
 The project will allow researchers to build better baselines for biodiversity and improve predictions of how mammals respond to changing environments to address major digitization challenges, expand the utility of specimens and use them to create new scientific knowledge.
 
-Ranges is funded by the U.S. National Science Foundation [DBI-2228385](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2228385&HistoricalAwards=false).
+Ranges is funded by the U.S. National Science Foundation ([DBI-2228385](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2228385&HistoricalAwards=false)).
 
 ## Goals
 
