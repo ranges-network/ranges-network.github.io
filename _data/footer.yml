@@ -1,18 +1,7 @@
-# Footer content is organized in columns.
-# You can also add a small print license statement at the bottom.
+# The footer contains columns: the first one is reserved for social icons,
+# but you can customize the others, as well as a license statement at the bottom.
 
- 
-# Columns (the more you add, the narrower they will be)
-  # EXAMPLE
-  #- name: Group name
-  #  description: |
-  #    An optional description. Can be markdown
-  #  links: # optional as well
-  #  - text: link title
-  #    href: http://example.com
-  #  - text: link title 2
-  #    href: http://example2.com
-  #  connectIcons: true # optional - show social icons (defined in _config.yml)
+# Columns
 columns:
   - description: Partners
     links:
@@ -22,15 +11,17 @@ columns:
       href: https://hp-north-america.gbif-staging.org/about#collaborators
     - text: GBIF.org
       href: https://www.gbif.org/
+  - description: Contact
+    links:
+    - text: Request a feature, report a bug or provide feedback via GitHub
+      href: https://github.com/gbif/hp-north-america/issues/new
+    - text: Email the helpdesk
+      href: gbif.na.helpdesk@gmail.com # mailto is necessary here
+    - text: Join our Slack
+      href: https://join.slack.com/t/gbif-north-america/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw
 
-  - name: Contact
-    description: | # Can be Markdown
-      [Create a new GitHub Issue](https://github.com/gbif/hp-north-america/issues/new) to request a feature, report a bug, or provide feedback.
-
-#  - name: Contact
-    description: | # Can be Markdown
-      * [Helpdesk](mailto:gbif.na.helpdesk@gmail.com)
-      * [Slack](https://join.slack.com/t/gbif-north-america/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw)
-    connectIcons: false
-# other: |
-  [Privacy policy](/privacy)
+# License
+license: >
+  Content on this site is licensed under a [CC BY 4.0 License](http://creativecommons.org/licenses/by/4.0/).
+  \| [Privacy policy](/privacy/)
+  \| Theme: [petridish](https://github.com/peterdesmet/petridish)

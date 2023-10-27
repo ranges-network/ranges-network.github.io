@@ -1,55 +1,43 @@
 # SITE SETTINGS
-title: Ranges                        # Title in top navigation bar (navbar) and <head>
-description: Mobilizing mammalian trait data from western North America # Site description in <head>
-author: Ranges                    # Used for copyright statement in footer
-url: "https://ranges-network.github.io"  # No slash at the end
-baseurl: "/home.md"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
-                                        # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
-                                        # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
-# Change url: to https://ranges-network.org/ once site is established
+title: Ranges
+author: Ranges # Used for copyright statement in footer
+url: "https://ranges-network.github.io" # No slash at the end
 
 # SOCIAL PROFILES
 # social:
-#  github: atlantichabitatmodels            # Social icon in footer
-#  disqus: atlantichabitatmodelscommunityofpractice               # Enable Disqus comments from disqus_sitename.disqus.com
+#   email: 
+#   twitter: 
+#   github: 
 
-# THEME SETTINGS (ALL OPTIONAL)
-remote_theme: peterdesmet/petridish@3.0 # point to stable theme
-posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
-tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
-archive_permalink: /news/               # Permalink of page using archive.html layout, required when using post categories
-github_edit: gh-pages                      # Show an "edit this page" link in the footer, can also be name of branch (default: main)
-logo: /assets/images/Range_Logo_Sun_Transparent.PNG # Logo in navbar, will be displayed with 30px height
-favicon: favicon.ico # testing
+# THEME SETTINGS
+theme: minima # Fallback theme
+remote_theme: peterdesmet/petridish@3.0
+posts_on_home: 3
+tweets_on_home: false
+archive_permalink: /news/
+github_edit: true
+logo: /assets/images/ranges-logo.png
 colors:
-  links: "#84a8bd"                      # Color for links: use a readable color that contrasts well with dark text
-  banner: "#96a493"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#566571"                     # Background color for footer: use color that contrasts well with white
-rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
+  links: "#84a8bd"
+  banner: "#96a493"
+  footer: "#566571"
+font_serif: true
+rounded_corners: true
 
 # BUILD SETTINGS
 markdown: kramdown
-plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
+plugins:
   - jekyll-feed
   - jekyll-sitemap
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
-  - node_modules
   - LICENSE
-  - package-lock.json
-  - package.json
-  - petridish.gemspec
 
 # FRONTMATTER DEFAULTS
 defaults:
   - scope:
-      path: ""
       type: "posts"
     values:
-      permalink: "/blog/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
-  - scope:
-      path: "faqs/"
-    values:
-      navigation: "faqs-navigation"
+      permalink: "/news/:year/:slug/" # Use /blog/yyyy/{filename}/ as permalink for all posts
