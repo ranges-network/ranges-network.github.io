@@ -10,7 +10,7 @@ permalink: /
 
 ## The Ranges Project
 
-![Ranges Logo](/assets/images/ranges-logo.png){:style="float: right;margin-right: 7px;margin-top: 7px;width: 400px;height: 250px"}Ranges seeks to digitize traits from over one million mammal specimens from 19 natural history museums, with a focus on western North America.
+![Ranges Logo](/assets/images/ranges-logo.png){:style="float: right;margin-right: 7px;margin-top: 7px;width: 400px;height: 400px"}Ranges seeks to digitize traits from over one million mammal specimens from 19 natural history museums, with a focus on western North America.
 
 The project will allow researchers to build better baselines for biodiversity and improve predictions of how mammals respond to changing environments to address major digitization challenges, expand the utility of specimens and use them to create new scientific knowledge.
 
