@@ -9,7 +9,6 @@ url: "https://ranges-network.github.io" # No slash at the end
 #   twitter: 
 #   github: 
 
-logo: /assets/images/Range_Logo_Sun_Transparent.PNG # Logo in navbar, will be displayed with 30px height
 # THEME SETTINGS
 theme: minima # Fallback theme
 remote_theme: peterdesmet/petridish@3.0
@@ -17,6 +16,7 @@ posts_on_home: 3
 tweets_on_home: false
 archive_permalink: /news/
 github_edit: true
+logo: /assets/images/ranges-logo.png
 colors:
   links: "#84a8bd"
   banner: "#96a493"
