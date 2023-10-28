@@ -18,9 +18,9 @@ archive_permalink: /news/
 github_edit: true
 logo: /assets/images/ranges-logo.png
 colors:
-  links: "#84a8bd"
-  banner: "#96a493"
-  footer: "#566571"
+  links: "#8a9cdd"  # Default #84a8bd
+  banner: "#ddb387"  # Default #96a493
+  footer: "#dc8686"  # Default #566571
 font_serif: true
 rounded_corners: true
 
