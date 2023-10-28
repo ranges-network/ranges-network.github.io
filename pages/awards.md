@@ -4,7 +4,7 @@ title: The Ranges Imagine Mini-Awards
 background:
  img: assets/images/3Dskull_recononscreen_scaled.jpg
  by: Sharlene Santana ©
-permalink: /
+permalink: /awards/
 ---
 
 ## Ranges Imaging Mini-Awards
