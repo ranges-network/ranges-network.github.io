@@ -6,11 +6,11 @@ columns:
   - description: Project Partners
     links:
     - text: FuTRES
-      href: <a href="https://futres.org/" target="_blank">
+      href: https://futres.org/
     - text: VertNet
-      href: http://vertnet.org/ target="_blank"
+      href: http://vertnet.org/ {:target="_blank"}
     - text: GEOME
-      href: https://geome-db.org/?to=/_blank
+      href: https://geome-db.org/
   - description: Contact
     links:
     - text: Request a feature, report a bug or provide feedback via GitHub
