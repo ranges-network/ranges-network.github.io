@@ -8,7 +8,7 @@ columns:
     - text: FuTRES
       href: https://futres.org/
     - text: VertNet
-      href: http://vertnet.org/ {:target="_blank"}
+      href: (http://vertnet.org/){:target="_blank"}
     - text: GEOME
       href: https://geome-db.org/
   - description: Contact
