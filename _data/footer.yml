@@ -3,22 +3,22 @@
 
 # Columns
 columns:
-  - description: Partners
+  - description: Project Partners
     links:
-    - text: GBIF North America Nodes
-      href: https://www.gbif.org/the-gbif-network/north-america
-    - text: Portal Collaborators
-      href: https://hp-north-america.gbif-staging.org/about#collaborators
-    - text: GBIF.org
-      href: https://www.gbif.org/
+    - text: FuTRES
+      href: https://futres.org/
+    - text: VertNet
+      href: http://vertnet.org/
+    - text: GEOME
+      href: https://geome-db.org/
   - description: Contact
     links:
     - text: Request a feature, report a bug or provide feedback via GitHub
-      href: https://github.com/gbif/hp-north-america/issues/new
+      href: https://github.com/ranges-network/ranges-network.github.io/issues/new
     - text: Email the helpdesk
-      href: gbif.na.helpdesk@gmail.com # mailto is necessary here
+      href: dbloom@vertnet.org # mailto is necessary here
     - text: Join our Slack
-      href: https://join.slack.com/t/gbif-north-america/shared_invite/zt-1duj62qwm-PoKZBpZGPX8ZREHkNRqoDw
+      href: https://join.slack.com/t/ranges-network/shared_invite/zt-25meqfug3-jddfQE_9afdwwQZEbgWfEA
 
 # License
 license: >
