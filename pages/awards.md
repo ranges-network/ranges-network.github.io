@@ -27,7 +27,7 @@ Narrative description of the work (4 page maximum). In addition to the research 
 - the type of imaging methodology, such as µCT scanning, diceCT (soft tissue anatomy), laser scanning, photogrammetry (external anatomy) where the imaging will occur, including the scanning facility of choice, if applicable. NOTE: If imaging via μCT, applicants are encouraged to utilize one of the four Ranges CT hubs; UNC Greensboro, Texas Tech University, University of Michigan and California State University, Long Beach, although projects are welcome to use facilities with commensurate rates
 - Plans and timeline for deposition of the resulting scans into a “permanent” and public repository (e.g., MorphoSource) with clear links to associated specimen records
 
-A budget that includes line items for all costs, including, but not limited to, shipping costs, long-term digital archival storage, travel, and any additional costs associated with imaging (1 page maximum). Salary will not be funded.
+A budget (1 page maximum) that includes line items for all costs, including, but not limited to, shipping costs, long-term digital archival storage, travel, and any additional costs associated with imaging. Salary will not be funded.
 
 Student applications must include a letter from an advisor or laboratory director.
 
