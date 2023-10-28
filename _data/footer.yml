@@ -6,7 +6,7 @@ columns:
   - description: Project Partners
     links:
     - text: FuTRES
-      href: "https://futres.org/" target="_blank"
+      href: <a href="https://futres.org/" target="_blank">
     - text: VertNet
       href: http://vertnet.org/ target="_blank"
     - text: GEOME
