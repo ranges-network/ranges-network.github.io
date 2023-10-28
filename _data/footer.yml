@@ -10,7 +10,7 @@ columns:
     - text: VertNet
       href: http://vertnet.org/ target="_blank"
     - text: GEOME
-      href: https://geome-db.org/
+      href: https://geome-db.org/?to=/_blank
   - description: Contact
     links:
     - text: Request a feature, report a bug or provide feedback via GitHub
