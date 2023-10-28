@@ -1,6 +1,6 @@
 ---
 layout: home
-title: The Ranges Imagine Mini-Awards
+title: The Ranges Imaging Mini-Awards
 background:
  img: assets/images/3Dskull_recononscreen_scaled.jpg
  by: Sharlene Santana ©
@@ -51,7 +51,7 @@ Images and the associated data will remain under the stewardship of the specimen
 
 The review process will be led by Ranges PIs and Advisory Committee Members.
 
-Please direct questions to Ranges via David Bloom, dbloom@vertnet.org. 
+Please direct questions to Ranges Project Magician, [David Bloom](mailto:dbloom@vertnet.org). 
 
 Ranges is a project funded by the U.S. National Science Foundation ([DBI-2228385]((https://www.nsf.gov/awardsearch/showAward?AWD_ID=2228385&HistoricalAwards=false))). Ranges seeks to digitize traits from over one million mammal specimens from 19 natural history museums, with a focus on western North America. The project will allow researchers to build better baselines for biodiversity and improve predictions of how mammals respond to changing environments to address major digitization challenges, expand the utility of specimens and use them to create new scientific knowledge.
 
