@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: home
 title: All about Ranges
 background:
  img: assets/images/McLean_handlens.jpeg
