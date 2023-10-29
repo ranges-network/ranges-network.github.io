@@ -21,7 +21,7 @@
   description: >
     Bio............ Assistant Professor, [Univeresity of North Carolina, Greensboro](https://www.mclean-lab.org/).
   orcid: 0000-0002-1293-5298
-  googlescholar: https://scholar.google.com/citations?user=DPABkrgAAAAJ&hl=en
+#  googlescholar: https://scholar.google.com/citations?user=DPABkrgAAAAJ&hl=en
   twitter: @sousliks
 
 - name: Dr. Sharlene Santana
@@ -30,7 +30,7 @@
   description: >
     Bio............ Professor, [University of Washington](https://faculty.washington.edu/ssantana/wordpress/).
   orcid: 0000-0001-6463-3569
-  googlescholar: https://scholar.google.com/citations?user=W3QL51QAAAAJ&hl=en
+#  googlescholar: https://scholar.google.com/citations?user=W3QL51QAAAAJ&hl=en
   Twitter: @SESantanaM
 
   - name: Dr. Robert Guralnick
@@ -39,7 +39,7 @@
   description: >
     Bio............ Professor, [University of Florida](https://faculty.washington.edu/ssantana/wordpress/).
   orcid: 0000-0001-6682-1504
-  googlescholar: https://scholar.google.com/citations?user=_v3wLbQAAAAJ&hl=en
+#  googlescholar: https://scholar.google.com/citations?user=_v3wLbQAAAAJ&hl=en
   Twitter: @robgural
 
   - name: Dr. Edward Davis
@@ -48,7 +48,7 @@
   description: >
     Bio............ Professor, [University of Oregon](https://blogs.uoregon.edu/vertpaleo/).
   orcid: 0000-0002-0918-5852
-  googlescholar: https://scholar.google.com/citations?user=7CLJuXYAAAAJ&hl=en
+#  googlescholar: https://scholar.google.com/citations?user=7CLJuXYAAAAJ&hl=en
   Twitter: @EdwardByrdDavis
 
    - name: David Bloom
