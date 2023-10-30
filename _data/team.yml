@@ -18,7 +18,7 @@
   orcid: 0000-0001-6463-3569
   Twitter: SESantanaM
 
-  - name: Dr. Robert Guralnick
+- name: Dr. Robert Guralnick
   role: Ranges PI
   image: assets/images/_Guralnickfl6187105360-image-ku2ec642CROP.png
   description: >
@@ -26,7 +26,7 @@
   orcid: 0000-0001-6682-1504
   Twitter: robgural
 
-  - name: Dr. Edward Davis
+- name: Dr. Edward Davis
   role: Ranges PI
   image: assets/images/_Davistusk_tetrameryx_single_updatedCROP.png
   description: >
@@ -34,7 +34,7 @@
   orcid: 0000-0002-0918-5852
   Twitter: EdwardByrdDavis
 
-   - name: David Bloom
+- name: David Bloom
   role: Ranges Project Manager
   image: assets/images/_BloomJackalopeCROP.png
   description: >
