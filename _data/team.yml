@@ -6,7 +6,7 @@
   role: Ranges Lead PI
   image: assets/images/McLeanurocitellus-columbianus-alberta-martybugsCROP.jpeg
   description: >
-    Bio pending. Assistant Professor, [Univeresity of North Carolina, Greensboro](https://www.mclean-lab.org/).
+    Bio pending. Assistant Professor, [University of North Carolina, Greensboro](https://www.mclean-lab.org/).
   orcid: 0000-0002-1293-5298
   twitter: sousliks
 
@@ -16,7 +16,7 @@
   description: >
     Bio pending. Professor, [University of Washington](https://faculty.washington.edu/ssantana/wordpress/).
   orcid: 0000-0001-6463-3569
-  Twitter: SESantanaM
+  googlescholar: https://scholar.google.com/citations?user=W3QL51QAAAAJ&hl=en
 
 - name: Dr. Robert Guralnick
   role: Ranges PI
@@ -38,7 +38,7 @@
   role: Ranges Project Manager
   image: assets/images/BloomJackalopeCROP.jpeg
   description: >
-    Bio pending. Muckraker, Univeresity of North Carolina, Greensboro.
+    Bio pending. Muckraker, University of North Carolina, Greensboro.
   orcid: 0000-0003-1273-1807
   Twitter: vertnetorg
 
@@ -46,14 +46,14 @@
   role: FuTRES Wrangler
   image: assets/images/Helena_h148p6dxeh971.jpeg
   description: >
-    Bio pending. PhD. Candidate, Univeresity of Oregon.
+    Bio pending. PhD. Candidate, [University of Oregon](https://blogs.uoregon.edu/vertpaleo/people/).
   orcid: 0000-0000-0000-0000
 
 - name: Dr. William Duncan
   role: FuTRES Ontologist
   image: assets/images/Duncan_pexels-hamid-elbaz-225869.jpeg
   description: >
-    Bio pending. Clinical Associate Professor, [Univeresity of Florida](https://dental.ufl.edu/profile/duncan-bill/).
+    Bio pending. Clinical Associate Professor, [University of Florida](https://dental.ufl.edu/profile/duncan-bill/).
   orcid: 0000-0001-9625-1899
   Twitter: vertnetorg
   googlescholar: wdduncan
