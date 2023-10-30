@@ -26,6 +26,7 @@
   description: >
     Bio pending. Professor, [University of Florida](https://www.floridamuseum.ufl.edu/nhdept/faculty/).
   orcid: 0000-0001-6682-1504
+  googlescholar: v3wLbQAAAAJ
   twitter: robgural
 
 - name: Dr. Edward Davis
@@ -34,6 +35,7 @@
   description: >
     Bio pending. Professor, [University of Oregon](https://blogs.uoregon.edu/vertpaleo/).
   orcid: 0000-0002-0918-5852
+  googlescholar: 7CLJuXYAAAAJ
   twitter: EdwardByrdDavis
 
 - name: David Bloom
@@ -59,5 +61,5 @@
     Bio pending. Clinical Associate Professor, [University of Florida](https://www.linkedin.com/in/biduncan/).
   orcid: 0000-0001-9625-1899
   twitter: vertnetorg
-  googlescholar: wdduncan
+  googlescholar: JmK0_REAAAAJ
   github: wdduncan
