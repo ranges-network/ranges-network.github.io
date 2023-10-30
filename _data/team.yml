@@ -17,7 +17,7 @@
 
 - name: Dr. Bryan McLean
   role: Ranges Lead PI
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: assets/images/_McLeanurocitellus-columbianus-alberta-martybugsCROP.png
   description: >
     Bio............ Assistant Professor, [Univeresity of North Carolina, Greensboro](https://www.mclean-lab.org/).
   orcid: 0000-0002-1293-5298
@@ -26,7 +26,7 @@
 
 - name: Dr. Sharlene Santana
   role: Ranges PI
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: assets/images/_Santana1280px-Chrotopterus_auritus_at_SachavacyocCROP.png
   description: >
     Bio............ Professor, [University of Washington](https://faculty.washington.edu/ssantana/wordpress/).
   orcid: 0000-0001-6463-3569
@@ -35,7 +35,7 @@
 
   - name: Dr. Robert Guralnick
   role: Ranges PI
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: assets/images/_Guralnickfl6187105360-image-ku2ec642CROP.png
   description: >
     Bio............ Professor, [University of Florida](https://faculty.washington.edu/ssantana/wordpress/).
   orcid: 0000-0001-6682-1504
@@ -44,7 +44,7 @@
 
   - name: Dr. Edward Davis
   role: Ranges PI
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: assets/images/_Davistusk_tetrameryx_single_updatedCROP.png
   description: >
     Bio............ Professor, [University of Oregon](https://blogs.uoregon.edu/vertpaleo/).
   orcid: 0000-0002-0918-5852
@@ -53,7 +53,7 @@
 
    - name: David Bloom
   role: Ranges Project Manager
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: assets/images/_BloomJackalopeCROP.png
   description: >
     Bio............ Muckraker, Univeresity of North Carolina, Greensboro.
   orcid: 0000-0003-1273-1807
