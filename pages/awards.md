@@ -11,6 +11,10 @@ permalink: /awards/
 
 Ranges is pleased to announce the first call for the **Ranges Imaging Mini-Awards**.
 
+**DEADLINE**: Applications must be submitted by January 10, 2024, 11:59pm Pacific Time. Submission link below.
+
+## Submission Requirements
+
 Ranges Imaging Mini-Awards will enable researchers to extend their current research by collecting internal and potentially complex trait data at the intraspecific level that can be integrated with other specimen-level data digitized by Ranges, such as reproduction, habitat, geographic origins, or time. Projects focused on any aspect of morphological variation are welcome.
 
 Anyone affiliated with an institution in the United States can apply for a Mini-Award including graduate students, postdocs, and faculty at all career stages. Preference will be given during review to:
