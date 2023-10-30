@@ -7,18 +7,24 @@ columns:
     links:
     - text: FuTRES
       href: https://futres.org/
+      new_window: true
     - text: VertNet
       href: http://vertnet.org/
+      new_window: true
     - text: GEOME
       href: https://geome-db.org/
+      new_window: true
   - description: Contact
     links:
     - text: Request a feature, report a bug or provide feedback via GitHub
       href: https://github.com/ranges-network/ranges-network.github.io/issues/new
+      new_window: true
     - text: Email the helpdesk
       href: dbloom@vertnet.org # mailto is necessary here
+      new_window: true
     - text: Join our Slack
       href: https://join.slack.com/t/ranges-network/shared_invite/zt-25meqfug3-jddfQE_9afdwwQZEbgWfEA
+      new_window: true
 
 # License
 license: >
