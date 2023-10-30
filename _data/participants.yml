@@ -1,20 +1,97 @@
 # Participants listed below will appear on the /participants page
+# can add orcid: researchgate: googlescholar: twitter: mastodon: github: email:
 
-- name: Philip J. Fry
-  role: Delivery boy # Will appear next to name
-  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+- name: University of Nevada, Reno, Museum of Natural History
+  image: assets/images/participantlogos/UNRLogo_SMALL.png # Can be external link
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  twitter: twitter_username
-  mastodon: https://mastodon.social/@mastodon_username
-  github: github_username
-  email: name@example.com
+    CoPI, xx; Other Team Members
 
-- name: Turanga Leela
-  role: Captain
-  description: >
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+- name: University of Wyoming 
+  image: assets/images/participantlogos/UWYLogo_SMALL.png
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: California Polytechnic University, Humboldt, Vertebrate Museum
+  image: assets/images/participantlogos/CalPolyHumboldtLogo_SMALL.png
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: Arizona State University
+  image: assets/images/participantlogos/ASU_Logo_SMALL.png
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: California State University, Long Beach
+  image: assets/images/participantlogos/Long-Beach_SMALL.jpg
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: University of Montana, Philip L. Wright Zoological Museum
+  image: assets/images/participantlogos/UMtLogo_SMALL.jpg
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: California Academy of Sciences
+  image: assets/images/participantlogos/CAS_Logo_SMALL.jpg
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: Denver Museum of Nature and Science
+  image: assets/images/participantlogos/DMNSLogo_1140290_SMALL.png
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: Field Museum of Natural History
+  image: assets/images/participantlogos/field_logo_SMALL.png
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: Texam A&M University, Biodiversity Research & Teaching Collection
+  image: assets/images/participantlogos/TAMLogo_SMALL.png
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: Natural History Museum of Utah
+  image: assets/images/participantlogos/NMHULogo_SMALL.png
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: University of Michigan, Museum of Zoology
+  image: assets/images/participantlogos/UMMZLogo_SMALL.jpg
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: University of Washington, Burke Museum
+  image: assets/images/participantlogos/UWBurkeLogo_SMALL.jpg
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: Natural History Museum of L.A. County
+  image: assets/images/participantlogos/LACMLogo_SMALL.png
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: University of Kansas, Natural History Museum
+  image: assets/images/participantlogos/KULogo_SMALL.png
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: Texas Tech University, Museum of Texas Tech University
+  image: assets/images/participantlogos/TTULogo_SMALL.png
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: University of Alaska, Museum of the North
+  image: assets/images/participantlogos/UAFLogo_SMALL.png
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: University of California Berkeley, Museum of Vertebrate Zoology
+  image: assets/images/participantlogos/MVZLogo_SMALL.jpg
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
+
+- name: University of New Mexico, Museum of Southwetern Biology
+  image: assets/images/participantlogos/UNMLogo_SMALL.jpg
+  description: > # Can be Markdown
+    CoPI, xx; Other Team Members
