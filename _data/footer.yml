@@ -14,6 +14,7 @@ columns:
     - text: GEOME
       href: https://geome-db.org/
       new_window: true
+  - description: Ranges is funded by: ![](assets/images/nsflogos/NSF-Symbol.png){height='25'}
   - description: Contact
     links:
     - text: Request a feature, report a bug or provide feedback via GitHub
