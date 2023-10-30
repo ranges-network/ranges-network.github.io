@@ -41,3 +41,20 @@
     Bio pending. Muckraker, Univeresity of North Carolina, Greensboro.
   orcid: 0000-0003-1273-1807
   Twitter: vertnetorg
+
+- name: Helena de Bastos Cruz Machado
+  role: FuTRES Wrangler
+  image: assets/images/Helena_h148p6dxeh971.jpeg
+  description: >
+    Bio pending. PhD. Candidate, Univeresity of Oregon.
+  orcid: 0000-0000-0000-0000
+
+- name: Dr. William Duncan
+  role: FuTRES Ontologist
+  image: assets/images/Duncan_pexels-hamid-elbaz-225869.jpeg
+  description: >
+    Bio pending. Clinical Associate Professor, [Univeresity of Florida](https://dental.ufl.edu/profile/duncan-bill/).
+  orcid: 0000-0001-9625-1899
+  Twitter: vertnetorg
+  googlescholar: wdduncan
+  github: wdduncan
