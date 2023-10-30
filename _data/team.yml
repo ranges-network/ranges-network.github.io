@@ -8,7 +8,6 @@
   description: >
     Bio pending. Assistant Professor, [University of North Carolina, Greensboro](https://www.mclean-lab.org/).
   orcid: 0000-0002-1293-5298
-  googlescholar: https://scholar.google.com/citations?user=DPABkrgAAAAJ&hl=en
   twitter: sousliks
 
 - name: Dr. Sharlene Santana
@@ -26,8 +25,7 @@
   description: >
     Bio pending. Professor, [University of Florida](https://www.floridamuseum.ufl.edu/nhdept/faculty/).
   orcid: 0000-0001-6682-1504
-  googlescholar: https://scholar.google.com/citations?user=_v3wLbQAAAAJ&hl=en
-  Twitter: robgural
+  twitter: robgural
 
 - name: Dr. Edward Davis
   role: Ranges PI
@@ -35,8 +33,7 @@
   description: >
     Bio pending. Professor, [University of Oregon](https://blogs.uoregon.edu/vertpaleo/).
   orcid: 0000-0002-0918-5852
-  googlescholar: https://scholar.google.com/citations?user=7CLJuXYAAAAJ&hl=en
-  Twitter: EdwardByrdDavis
+  twitter: EdwardByrdDavis
 
 - name: David Bloom
   role: Ranges Project Manager
@@ -44,7 +41,7 @@
   description: >
     Bio pending. Muckraker, University of North Carolina, Greensboro.
   orcid: 0000-0003-1273-1807
-  Twitter: vertnetorg
+  twitter: vertnetorg
 
 - name: Helena de Bastos Cruz Machado
   role: FuTRES Wrangler
@@ -59,6 +56,6 @@
   description: >
     Bio pending. Clinical Associate Professor, [University of Florida](https://www.linkedin.com/in/biduncan/).
   orcid: 0000-0001-9625-1899
-  Twitter: vertnetorg
+  twitter: vertnetorg
   googlescholar: wdduncan
   github: wdduncan
