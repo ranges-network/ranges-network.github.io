@@ -4,7 +4,7 @@
 # Columns
 columns:
   - description: >
-      ![NSF](/assets/images/nsflogos/NSF-Symbol.png){:.w-75}
+      ![[NSF](/assets/images/nsflogos/NSF-Symbol.png){:.w-75}](https://www.nsf.org/){:target="_blank"}
   - description: Project Partners
     links:
     - text: FuTRES
