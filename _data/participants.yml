@@ -49,17 +49,18 @@
 - name: Texam A&M University, Biodiversity Research & Teaching Collection
   image: assets/images/participantlogos/TAMLogo_SMALL.png
   description: > # Can be Markdown
-    CoPI, [Jessica Light](https://www.jessicalight.org/?to=/_blank)
+    CoPI, [Jessica Light](https://www.jessicalight.org/)
+  new_window: true  
 
 - name: Natural History Museum of Utah
   image: assets/images/participantlogos/NMHULogo_SMALL.png
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    CoPI, [Eric Rickart](https://nhmu.utah.edu/people/eric-rickart-0)
 
 - name: University of Michigan, Museum of Zoology
   image: assets/images/participantlogos/UMMZLogo_SMALL.jpg
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    CoPI, [Cody Thompson](https://codythompson.org/)
 
 - name: University of Washington, Burke Museum
   image: assets/images/participantlogos/UWBurkeLogo_SMALL.jpg
@@ -69,7 +70,7 @@
 - name: Natural History Museum of L.A. County
   image: assets/images/participantlogos/LACMLogo_SMALL.png
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    CoPI, [Kayce Bell](http://www.kaycebell.com/)
 
 - name: University of Kansas, Natural History Museum
   image: assets/images/participantlogos/KULogo_SMALL.png
@@ -94,4 +95,4 @@
 - name: University of New Mexico, Museum of Southwetern Biology
   image: assets/images/participantlogos/UNMLogo_SMALL.jpg
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    CoPI, [Jonathan Dunnum](https://biology.unm.edu/people/staff/profile/dunnum_jonathan.html); CoPI, [Joseph Cook](https://msb.unm.edu/research/faculty-labs/cook-lab/index.html?_gl=1*208dmb*_gcl_au*NTU3ODIzMDkzLjE2OTg3MTAxNzU.)
