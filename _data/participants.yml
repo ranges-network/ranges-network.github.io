@@ -3,8 +3,9 @@
 
 - name: University of Nevada, Reno, Museum of Natural History
   image: assets/images/participantlogos/UNRLogo_SMALL.png # Can be external link
-  description: > # Can be Markdown
-    PI, [Chris Feldman](https://feldmanlab.weebly.com/); CoPI, [Julie Allen](https://www.biol.vt.edu/People/Faculty.html)
+  description: > | # Can be Markdown
+    - PI, [Chris Feldman](https://feldmanlab.weebly.com/)
+    - CoPI, [Julie Allen](https://www.biol.vt.edu/People/Faculty.html)
 
 - name: University of Wyoming 
   image: assets/images/participantlogos/UWYLogo_SMALL.png
@@ -18,8 +19,9 @@
 
 - name: Arizona State University
   image: assets/images/participantlogos/ASU_Logo_SMALL.png
-  description: > # Can be Markdown
-    PI, [Nathan Upham](https://n8u.org/); CoPI, [Dakota Rowsey](https://www.dakotarowsey.org/)
+  description: > | # Can be Markdown
+    - PI, [Nathan Upham](https://n8u.org/)
+    - CoPI, [Dakota Rowsey](https://www.dakotarowsey.org/)
 
 - name: California State University, Long Beach
   image: assets/images/participantlogos/Long-Beach_SMALL.jpg
@@ -69,7 +71,7 @@
 - name: University of Washington, Burke Museum
   image: assets/images/participantlogos/UWBurkeLogo_SMALL.jpg
   description: > # Can be Markdown
-    PI, xx; Other Team Members
+    PI, [Sharlene Santana](https://faculty.washington.edu/ssantana/wordpress/)
 
 - name: Natural History Museum of L.A. County
   image: assets/images/participantlogos/LACMLogo_SMALL.png
@@ -83,13 +85,14 @@
 
 - name: Texas Tech University, Museum of Texas Tech University
   image: assets/images/participantlogos/TTULogo_SMALL.png
-  description: > # Can be Markdown
-    PI, [Richard Stevens](https://www.depts.ttu.edu/nrm/people/faculty/faculty_pages/richardstevens/stevens.php); CoPI, [Robert Bradley](https://www.depts.ttu.edu/nsrl/directory/curators/bio/robert-bradley.php)
+  description: > | # Can be Markdown
+    - PI, [Richard Stevens](https://www.depts.ttu.edu/nrm/people/faculty/faculty_pages/richardstevens/stevens.php)
+    - CoPI, [Robert Bradley](https://www.depts.ttu.edu/nsrl/directory/curators/bio/robert-bradley.php)
 
 - name: University of Alaska, Museum of the North
   image: assets/images/participantlogos/UAFLogo_SMALL.png
   description: > # Can be Markdown
-    PI, xx; Other Team Members
+    PI, Link Olson
 
 - name: University of California Berkeley, Museum of Vertebrate Zoology
   image: assets/images/participantlogos/MVZLogo_SMALL.jpg
@@ -98,5 +101,6 @@
 
 - name: University of New Mexico, Museum of Southwetern Biology
   image: assets/images/participantlogos/UNMLogo_SMALL.jpg
-  description: > # Can be Markdown
-    PI, [Joseph Cook](https://msb.unm.edu/research/faculty-labs/cook-lab/index.html?_gl=1*208dmb*_gcl_au*NTU3ODIzMDkzLjE2OTg3MTAxNzU.); CoPI, [Jonathan Dunnum](https://biology.unm.edu/people/staff/profile/dunnum_jonathan.html)
+  description: > | # Can be Markdown
+    - PI, [Joseph Cook](https://msb.unm.edu/research/faculty-labs/cook-lab/index.html?_gl=1*208dmb*_gcl_au*NTU3ODIzMDkzLjE2OTg3MTAxNzU.)
+    - CoPI, [Jonathan Dunnum](https://biology.unm.edu/people/staff/profile/dunnum_jonathan.html)
