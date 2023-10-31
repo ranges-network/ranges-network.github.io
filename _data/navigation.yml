@@ -8,7 +8,7 @@
   href: /participants/
 - text: Imaging Awards
   href: /awards/
-- text: Resources
+#- text: Resources
   menu:
   - text: GBIF NA Regional Help Desk (email)
     href: mailto:gbif.na.helpdesk@gmail.com # mailto is necessary here
