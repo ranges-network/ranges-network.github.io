@@ -52,7 +52,9 @@
   image: assets/images/Helena_h148p6dxeh971.jpeg
   description: >
     Bio pending. PhD. Candidate, [University of Oregon](https://blogs.uoregon.edu/vertpaleo/people/).
-  orcid: 0000-0000-0000-0000
+  orcid: 0000-0001-8415-4848
+  googlescholar: 1nmnSPgAAAAJ
+  github: helenamachado
 
 - name: William Duncan
   role: FuTRES Ontologist
