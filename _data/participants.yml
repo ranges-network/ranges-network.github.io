@@ -4,95 +4,94 @@
 - name: University of Nevada, Reno, Museum of Natural History
   image: assets/images/participantlogos/UNRLogo_SMALL.png # Can be external link
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    PI, [Chris Feldman](https://feldmanlab.weebly.com/); CoPI, [Julie Allen](https://www.biol.vt.edu/People/Faculty.html)
 
 - name: University of Wyoming 
   image: assets/images/participantlogos/UWYLogo_SMALL.png
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    PI, [Elizabeth Wommack](https://www.uwyo.edu/zoology/people/research-staff.html)
 
 - name: California Polytechnic University, Humboldt, Vertebrate Museum
   image: assets/images/participantlogos/CalPolyHumboldtLogo2_SMALL.png
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    PI, [Silvia Pavan](https://biosci.humboldt.edu/people/silvia-pavan-phd)
 
 - name: Arizona State University
   image: assets/images/participantlogos/ASU_Logo_SMALL.png
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    PI, [Nathan Upham](https://n8u.org/); CoPI, [Dakota Rowsey](https://www.dakotarowsey.org/)
 
 - name: California State University, Long Beach
   image: assets/images/participantlogos/Long-Beach_SMALL.jpg
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    PI, [Theodore Stankowich](https://www.csulb.edu/biological-sciences/mammal-lab)
 
 - name: University of Montana, Philip L. Wright Zoological Museum
   image: assets/images/participantlogos/UMtLogo_SMALL.jpg
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    PI, [Angela Hornsby](https://www.umt.edu/zoological-museum/people/)
 
 - name: California Academy of Sciences
   image: assets/images/participantlogos/CAS_Logo_SMALL.jpg
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    PI, [John Dumbacher](http://www.jackdumbacher.com/)
 
 - name: Denver Museum of Nature and Science
   image: assets/images/participantlogos/DMNSLogo_1140290_SMALL.png
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    PI, [John Demboski](https://www.dmns.org/science/divisional-staff/john-demboski/)
 
 - name: Field Museum of Natural History
   image: assets/images/participantlogos/field_logo_SMALL.png
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    PI, [Adam Ferguson](https://www.fieldmuseum.org/about/staff/profile/adam-ferguson)
 
 - name: Texam A&M University, Biodiversity Research & Teaching Collection
   image: assets/images/participantlogos/TAMLogo_SMALL.png
   description: > # Can be Markdown
-    CoPI, [Jessica Light](https://www.jessicalight.org/)
-  new_window: true  
+    PI, [Jessica Light](https://www.jessicalight.org/)  
 
 - name: Natural History Museum of Utah
   image: assets/images/participantlogos/NMHULogo_SMALL.png
   description: > # Can be Markdown
-    CoPI, [Eric Rickart](https://nhmu.utah.edu/people/eric-rickart-0)
+    PI, [Eric Rickart](https://nhmu.utah.edu/people/eric-rickart-0)
 
 - name: University of Michigan, Museum of Zoology
   image: assets/images/participantlogos/UMMZLogo_SMALL.jpg
   description: > # Can be Markdown
-    CoPI, [Cody Thompson](https://codythompson.org/)
+    PI, [Cody Thompson](https://codythompson.org/)
 
 - name: University of Washington, Burke Museum
   image: assets/images/participantlogos/UWBurkeLogo_SMALL.jpg
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    PI, xx; Other Team Members
 
 - name: Natural History Museum of L.A. County
   image: assets/images/participantlogos/LACMLogo_SMALL.png
   description: > # Can be Markdown
-    CoPI, [Kayce Bell](http://www.kaycebell.com/)
+    PI, [Kayce Bell](http://www.kaycebell.com/)
 
 - name: University of Kansas, Natural History Museum
   image: assets/images/participantlogos/KULogo_SMALL.png
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    PI, [Jocelyn Colella](https://jpcolella.weebly.com/)
 
 - name: Texas Tech University, Museum of Texas Tech University
   image: assets/images/participantlogos/TTULogo_SMALL.png
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    PI, [Richard Stevens](https://www.depts.ttu.edu/nrm/people/faculty/faculty_pages/richardstevens/stevens.php); CoPI, [Robert Bradley](https://www.depts.ttu.edu/nsrl/directory/curators/bio/robert-bradley.php)
 
 - name: University of Alaska, Museum of the North
   image: assets/images/participantlogos/UAFLogo_SMALL.png
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    PI, xx; Other Team Members
 
 - name: University of California Berkeley, Museum of Vertebrate Zoology
   image: assets/images/participantlogos/MVZLogo_SMALL.jpg
   description: > # Can be Markdown
-    CoPI, xx; Other Team Members
+    PI, [Chris Conroy](https://mvz.berkeley.edu/directory/collections-research-staff/)
 
 - name: University of New Mexico, Museum of Southwetern Biology
   image: assets/images/participantlogos/UNMLogo_SMALL.jpg
   description: > # Can be Markdown
-    CoPI, [Jonathan Dunnum](https://biology.unm.edu/people/staff/profile/dunnum_jonathan.html); CoPI, [Joseph Cook](https://msb.unm.edu/research/faculty-labs/cook-lab/index.html?_gl=1*208dmb*_gcl_au*NTU3ODIzMDkzLjE2OTg3MTAxNzU.)
+    PI, [Joseph Cook](https://msb.unm.edu/research/faculty-labs/cook-lab/index.html?_gl=1*208dmb*_gcl_au*NTU3ODIzMDkzLjE2OTg3MTAxNzU.); CoPI, [Jonathan Dunnum](https://biology.unm.edu/people/staff/profile/dunnum_jonathan.html)
