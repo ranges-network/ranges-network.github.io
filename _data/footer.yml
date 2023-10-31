@@ -16,6 +16,9 @@ columns:
     - text: GEOME
       href: https://geome-db.org/
       new_window: true
+    - text: NEON
+      href: https://www.neonscience.org/samples
+      new_window: true
   - description: Contact
     links:
     - text: Request a feature, report a bug or provide feedback via GitHub
