@@ -56,6 +56,11 @@
   description: > # Can be Markdown
     PI, [Eric Rickart](https://nhmu.utah.edu/people/eric-rickart-0)
 
+- name: National Ecological Observatory Network
+  image: assets/images/participantlogos/NEON-NSF_SMALL(2).png
+  description: > # Can be Markdown
+    PI, [Laura Steger](https://search.asu.edu/profile/963029)
+    
 - name: University of Michigan, Museum of Zoology
   image: assets/images/participantlogos/UMMZLogo_SMALL.jpg
   description: > # Can be Markdown
