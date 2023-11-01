@@ -5,6 +5,7 @@ background:
  img: assets/images/3Dskull_recononscreen_scaled.jpg
  by: Sharlene Santana ©
 permalink: /awards/
+toc: true
 ---
 
 ## Ranges Imaging Mini-Awards
