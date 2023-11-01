@@ -5,7 +5,7 @@ description: Our policy for the use of cookies and similar technologies and how 
 permalink: /privacy/
 ---
 
-# Cookie and Privacy Policy
+## Cookie and Privacy Policy
 
 This policy informs of our use of cookies and similar technologies and how and for what purposes we collect and process your personal information when you visit Ranges.
 
