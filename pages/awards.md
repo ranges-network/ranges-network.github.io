@@ -5,14 +5,13 @@ background:
  img: assets/images/3Dskull_recononscreen_scaled.jpg
  by: Sharlene Santana ©
 permalink: /awards/
-toc: true
 ---
 
 ## Ranges Imaging Mini-Awards
 
 Ranges is pleased to announce the first call for the **Ranges Imaging Mini-Awards**.
 
-**DEADLINE**: Applications must be submitted by January 10, 2024, 11:59pm Pacific Time. Submission link below.
+**DEADLINE**: Applications must be submitted by January 10, 2024, 11:59pm Pacific Time. [SUBMIT YOUR APPLICATION](https://forms.gle/tYjPMtaiKXpqpPKH8).
 
 ## Submission Requirements
 
@@ -50,7 +49,7 @@ Images and the associated data will remain under the stewardship of the specimen
 
 **DEADLINE**: Applications must be submitted by January 10, 2024, 11:59pm Pacific Time.
 
-**SUBMISSION ARE BEING ACCEPTED NOW**: **URL TO GO HERE**
+**[CLICK TO SUBMIT YOUR APPLICATION](https://forms.gle/tYjPMtaiKXpqpPKH8)**
 
 **NOTIFICATION**: Decisions will be announced via email on or before February 14, 2024.
 
