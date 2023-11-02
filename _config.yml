@@ -34,6 +34,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+  - assets/favicons/README.md
+  - _posts/README.md
 
 # FRONTMATTER DEFAULTS
 defaults:
