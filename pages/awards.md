@@ -15,7 +15,7 @@ Ranges is pleased to announce the first call for the **Ranges Imaging Mini-Award
 
 ## Submission Requirements
 
-Ranges Imaging Mini-Awards will enable researchers to extend their current research by collecting internal and potentially complex trait data at the intraspecific level that can be integrated with other specimen-level data digitized by Ranges, such as reproduction, habitat, geographic origins, or time. Projects focused on any aspect of morphological variation are welcome.
+Ranges Imaging Mini-Awards will enable researchers to produce new images from biocollections to extend their current research by collecting internal and potentially complex trait data at the intraspecific level that can be integrated with other specimen-level data digitized by Ranges, such as reproduction, habitat, geographic origins, or time. Projects focused on any aspect of morphological variation are welcome.
 
 Anyone affiliated with an institution in the United States can apply for a Mini-Award including graduate students, postdocs, and faculty at all career stages. Preference will be given during review to:
 - Trait-based projects that require expanded spatial and temporal coverage within western North American mammal species (i.e., at the intraspecific level)
