@@ -1,10 +1,9 @@
 ---
-layout: home
 title: All about Ranges
 description: A community of practice
 background:
- img: assets/images/McLean_handlens.jpeg
- by: Bryan McLean ©
+  img: /assets/images/McLean_handlens.jpeg
+  by: Bryan McLean ©
 permalink: /about/
 ---
 

@@ -3,8 +3,8 @@ layout: home
 title: RANGES
 description: Mobilizing mammalian trait data across western North America for the study of evolution, ecology, and global change.
 background:
- img: assets/images/Macrotus_waterhousii_3D_muscles_lateral.jpg
- by: Sharlene Santana ©
+  img: assets/images/Macrotus_waterhousii_3D_muscles_lateral.jpg
+  by: Sharlene Santana ©
 permalink: /
 ---
 
