@@ -1,10 +1,10 @@
 ---
-layout: home
 title: The Ranges Imaging Mini-Awards
 background:
- img: assets/images/3Dskull_recononscreen_scaled.jpg
- by: Sharlene Santana ©
+  img: /assets/images/3Dskull_recononscreen_scaled.jpg
+  by: Sharlene Santana ©
 permalink: /awards/
+toc: true
 ---
 
 ## Ranges Imaging Mini-Awards
