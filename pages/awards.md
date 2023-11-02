@@ -47,7 +47,7 @@ Images and the associated data will remain under the stewardship of the specimen
 
 ---------------------------
 
-## [SUBMIT YOUR APPLICATION](https://forms.gle/tYjPMtaiKXpqpPKH8).
+## [SUBMIT YOUR APPLICATION](https://forms.gle/tYjPMtaiKXpqpPKH8){target="_blank"}.
 
 **NOTIFICATION**: Decisions will be announced via email on or before February 14, 2024.
 
