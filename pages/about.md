@@ -5,6 +5,7 @@ background:
   img: /assets/images/McLean_handlens.jpeg
   by: Bryan McLean ©
 permalink: /about/
+toc: true
 ---
 
 ## Project Summary
