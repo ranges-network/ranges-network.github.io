@@ -33,7 +33,7 @@ Narrative description of the work (4 page maximum). In addition to the research 
 
 A budget (1 page maximum) that includes line items for all costs, including, but not limited to, shipping costs, long-term digital archival storage, travel, and any additional costs associated with imaging. Salary will not be funded.
 
-Student applications must include a letter from an advisor or laboratory director.
+Student applications must include a simple letter of support from an advisor or laboratory director.
 
 Applicants must be affiliated with an institution in the United States.
 
