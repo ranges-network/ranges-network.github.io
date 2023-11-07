@@ -24,6 +24,8 @@ Anyone affiliated with an institution in the United States can apply for a Mini-
 - Early-career scientists
 - Projects that include clear plans to increase diversity, inclusivity, and student training opportunities
 
+We have $50,000 in award money and intend to fund 15-20 small projects over the next three years.
+
 ## Proposal Requirements:
 
 Narrative description of the work (4 page maximum). In addition to the research rationale, the description should include:
