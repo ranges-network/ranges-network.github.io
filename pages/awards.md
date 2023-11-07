@@ -26,7 +26,7 @@ Anyone affiliated with an institution in the United States can apply for a Mini-
 
 We have $50,000 in award money and intend to fund 15-20 small projects over the next three years.
 
-## Proposal Requirements:
+## Proposal Requirements
 
 Narrative description of the work (4 page maximum). In addition to the research rationale, the description should include:
 - who will perform the work
@@ -39,7 +39,7 @@ Student applications must include a simple letter of support from an advisor or 
 
 Applicants must be affiliated with an institution in the United States.
 
-## Additional Expectations:
+## Additional Expectations
 
 **ALL imaging must be completed BEFORE the end of the 2024 calendar year**.
 
