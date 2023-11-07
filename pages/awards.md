@@ -13,7 +13,7 @@ Ranges is pleased to announce the first call for the **Ranges Imaging Mini-Award
 
 **DEADLINE**: Applications must be submitted by January 10, 2024, 11:59pm Pacific Time.
 
-## Submission Requirements
+## Project Characteristics
 
 Ranges Imaging Mini-Awards will enable researchers to produce new images from biocollections to extend their current research by collecting internal and potentially complex trait data at the intraspecific level that can be integrated with other specimen-level data digitized by Ranges, such as reproduction, habitat, geographic origins, or time. Projects focused on any aspect of morphological variation are welcome.
 
