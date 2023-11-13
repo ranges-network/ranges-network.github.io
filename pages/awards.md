@@ -45,7 +45,7 @@ Applicants must be affiliated with an institution in the United States.
 
 A final report will be due within six months of the completion of the project. The final report must include a public repository link for each specimen imaging dataset generated during the project. Additional information will be provided to projects selected for funding.
 
-Images and the associated data will remain under the stewardship of the specimens’ holding institution and applicants must follow institutional, data aggregator and/or repository guidelines to ensure that the appropriate data usage polcies are followed, all licenses and waivers are applied and to clarify approved data usage.
+Images and the associated data will remain under the stewardship of the specimens’ holding institution and applicants must follow institutional, data aggregator and/or repository guidelines to ensure that the appropriate data usage policies are followed, all licenses and waivers are applied and to clarify approved data usage.
 
 ---------------------------
 
