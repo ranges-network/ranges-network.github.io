@@ -65,6 +65,7 @@ Ranges has identified the following traits as essential for the success of this 
 | right testis width         | Length of the short axis of right male gonad spheroid (perpendicular to long axis at midpoint)                                | right testis width        | [FOVT:0001368](https://ontobee.org/ontology/FOVT?iri=http://purl.obolibrary.org/obo/FOVT_0001368)              |
 
 ## Version Tracker
+
 | Version    | Release Date     | Posted by    |
 |------------|------------------|--------------|
 | 20231221   | December 21, 2023| dbloom       |
