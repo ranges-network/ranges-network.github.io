@@ -10,7 +10,7 @@ toc: true
 
 ## Why Traits?
 
-Traits are the morphological, reproductive, physiological and behavioral properties of organism. These characteristics are important for biodiversity research, monitoring, and educational initiatives. Traits allow researchers to:
+Traits are the morphological, reproductive, physiological and behavioral properties of organisms. These characteristics are important for biodiversity research, monitoring, and educational initiatives because they form the interface between individuals and their environment. Traits allow researchers to:
 - link trait variation to environments, ecological contexts, and time;
 - analyze distributions of trait values and develop richer models of trait evolution;
 - cross-validate the species-level trait data currently held in community trait databases;
