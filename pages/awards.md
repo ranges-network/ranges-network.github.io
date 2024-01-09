@@ -11,7 +11,8 @@ toc: true
 
 Ranges is pleased to announce the first call for the **Ranges Imaging Mini-Awards**.
 
-**DEADLINE**: Applications must be submitted by January 10, 2024, 11:59pm Pacific Time.
+**DEADLINE EXTENDED 48 Hours**: Applications must be submitted by January 12, 2024, 11:59 Pacific Time
+~**DEADLINE**: Applications must be submitted by January 10, 2024, 11:59pm Pacific Time.~
 
 ## Project Characteristics
 
