@@ -5,7 +5,7 @@ background:
     img: /assets/images/Macrotus_waterhousii_diceCTmuscles.jpg
     by: Sharlene Santana ©
 #    href: https://www.inaturalist.org/people/pcartier
-#author: [Jocelyn Pender]
+#author: [David Bloom]
 tags: [Awards, Imaging]
 comments: false
 ---
