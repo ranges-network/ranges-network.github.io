@@ -20,4 +20,5 @@ Ranges Imaging Mini-Awards will enable researchers to extend their current resea
 
 Ranges, funded by NSF (DBI-2228385), seeks to digitize traits from over one million mammal specimens from 19 natural history museums, with a focus on western North America. The project will allow researchers to build better baselines for biodiversity and improve predictions of how mammals respond to changing environments to address major digitization challenges, expand the utility of specimens and use them to create new scientific knowledge.
 
-**DEADLINE**: Applications must be submitted by January 10, 2024, 11:59pm Pacific Time.
+**DEADLINE EXTENDED 48 HOURS**: Applications must be submitted by January 12, 2024, 11:59pm Pacific Time.
+~~**DEADLINE**: Applications must be submitted by January 10, 2024, 11:59pm Pacific Time.~~
