@@ -25,7 +25,7 @@ The Ranges Network presents **The importance of 3D imaging in current trait-base
 ### Video
 (View on YouTube[https://www.youtube.com/watch?v=-cLbsKaFp7s])
 <iframe
-  src="https://www.youtube.com/watch?v=-cLbsKaFp7s"
+  src="https://www.youtube.com/embed/-cLbsKaFp7s"
   style="width:100%; height:300px;"
 ></iframe>
 
