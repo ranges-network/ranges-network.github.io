@@ -9,7 +9,11 @@
 - text: Traits
   href: /traits/
 - text: Imaging Awards
+menu:
+- text: 2025 Call for Proposals
   href: /awards/
+- text: 2024 Recipients
+  href: /2024awards/
 #- text: Resources
 #  menu:
 #  - text: GBIF NA Regional Help Desk (email)
