@@ -40,6 +40,8 @@ Ranges seeks to digitize traits from over one million mammal specimens from 19 n
 
 ### Webinar Q&A
 
+At the end of the webinar the presenters answered several questions. Those questions not answered during the recording are provided below.
+
 | Question | Answer | Answer provided by |
 |----------|--------|--------------------|
 | Great talk Sydney! What’s the most interesting question you think you will be able to answer with the 3D skull shape data? | I am particularly excited to explore if we can detect covariation of skull morphology and environmental variables that would be expected if the bats are adapting to local conditions | Sydney Decker |
