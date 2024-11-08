@@ -23,11 +23,12 @@ toc: true
 The Ranges Network presents **The importance of 3D imaging in current trait-based mammal research: Winners of the Ranges Imaging Mini-Awards**. This webinar was presented on November 7th, 2024, as a part of the (iDigBio TCN Webinar series[https://www.idigbio.org/content/webinar-series-checking-tcn%E2%80%99s-and-their-networks-digitization-knowledge]). 
 
 ### Video
-(View on YouTube[https://www.youtube.com/watch?v=-cLbsKaFp7s])
 <iframe
   src="https://www.youtube.com/embed/-cLbsKaFp7s"
   style="width:100%; height:300px;"
 ></iframe>
+
+Visit iDigBio's (YouTube page[https://www.youtube.com/watch?v=-cLbsKaFp7s]) to view in full-screen or larger size.
 
 ### Abstract
 
@@ -45,7 +46,7 @@ Ranges seeks to digitize traits from over one million mammal specimens from 19 n
 | In the last slide [of Sydney's] with the animation, the brain is "leaking" through the cranium. Is that real or artifact? How do you control for artifacts in landmarks in 3D data? | in general, yes, we would like to publish all the data. It might be logistically hard to publish the color data independently to each specimen.
 Each museum would need to add that for each specimen. The other thing is that there are many ways/software to extract the color data from images, so not sure if extracted color data will be as useful as the images themselves that
 are already available on each specimens' account on Arctos. | José Gabriel Martinez-Fonseca (via email) |
-| Question for José: I assume that the images be stored in collection-specific databases, but where will the extracted color value data be stored? Is that something that could be housed associated with images in MorphoSource? Might be nice to do that instead of some collection-agnostic repository like Dryad. |  |  |
+| Question for José: I assume that the images be stored in collection-specific databases, but where will the extracted color value data be stored? Is that something that could be housed associated with images in MorphoSource? Might be nice to do that instead of some collection-agnostic repository like Dryad. |
 | Question for Priscilla: how common is seasonal variation in brain size and limb bone density across mammals? that’s bonkers. Any evidence for this in the fossil record? | Hi Dave! Brain srinking has been only observed in the common shrew, although brain case srinking exists even in weasels, moles, and other shrews. The mineralization variation in the postcranial has been mostly reported for rodents/ I'm not aware about studies looking at that in the fossil record, but should be promising! | Prsicila de Souza Rothier Duarte |
 | For the shrews, it seems energetically costly to regrow material post-winter. Is there an explanation for why this is benefiical or waht tradeoffs exist? | That's true, and the mechanisms are not well understood. for winter, srinking might be benefitial for taking energy, and reducing metabolism. but at the same time, during summer when animals find partners, reduced brains are not advantagous in terms of cognitive capabilities. so regrowing can be benefitial to exploring the environment. | Prsicila de Souza Rothier Duarte |
 | For Brian: do you see any temporal trends in morphology among your samples from the 1910s to the 2000s? | There is a bit of a trend for increased skull length over that span, but we don't have a lot of power yet because we have to account for sexual dimorphism in skull length too. | Brian Tanis |
