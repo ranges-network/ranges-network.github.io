@@ -38,6 +38,15 @@ RIMA enables researchers to produce new images of mammal specimens from biocolle
 
 Ranges seeks to digitize traits from over one million mammal specimens from 19 natural history museums, with a focus on western North America.
 
+### Slide Decks
+[McLean Ranges Introduction](https://drive.google.com/uc?export=download&id=1-IyDAoQ0Gs0lE4tnzCM3toC1l-AfwLvd)
+[Decker](https://drive.google.com/uc?export=download&id=1bb5o8XasoYO0sOZcVAZ2qH3vsbyJZzjx)
+[Martinez-Fonseca](https://drive.google.com/uc?export=download&id=12Gk6NgKdFn4D0UpzKrEct13WfjSN03Na)
+[Rothier](https://drive.google.com/uc?export=download&id=1uIt3xbAtW3bGQ1l58RyB18TwGvkuNlkU)
+[Tanis](https://drive.google.com/uc?export=download&id=19Hi2J6VfHID9YKCNpb9Nb_xlJImR5HJk)
+
+All slides are in PDF format. Any animations or videos will not display as intended in the original slides. Please contact the [Ranges Project Manager](mailto:dbloom@vertnet.org) to request slides in their original format.
+
 ### Webinar Q&A
 
 At the end of the webinar the presenters answered several questions. Those questions not answered during the recording are provided below.
