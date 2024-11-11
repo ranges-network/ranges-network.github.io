@@ -15,7 +15,7 @@ toc: true
 | Chris Law | University of Washington | Interspecific and intraspecific variation in the skulls of three British Columbia weasels |
 | Sydney Decker | Ohio State University | Skull Morphology Variation Across Environmental Conditions in Widely Distributed Yellow Bats |
 | José Garbriel Martinez-Fonseca | Northern Arizona University | Assessing phenotypic differences within and between Zapus species in the western United States |
-| Priscila de Souze Rothier Duarte | Cornell University | MiniMMorph: Evolutionary and temporal variation of Miniaturized Mammalian Morphologies |
+| Priscila de Souza Rothier Duarte | Cornell University | MiniMMorph: Evolutionary and temporal variation of Miniaturized Mammalian Morphologies |
 | Brian Tanis | Oregon State University | Spatial and temporal variation of bite force in camas pocket gophers (Thomomys bulbivorus) |
 
 ## 2024 Webinar
