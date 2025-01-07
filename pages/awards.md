@@ -11,7 +11,7 @@ toc: true
 
 Ranges is pleased to announce the second call for the **Ranges Imaging Mini-Awards**.
 
-**DEADLINE**: Applications must be submitted by January 8, 2025, 11:59pm Pacific Time.
+**DEADLINE EXTENDED**: Applications must be submitted by **January 10, 2025, 11:59pm** ~~Pacific Time January 8, 2025, 11:59pm Pacific~~.
 
 ## Project Characteristics
 
