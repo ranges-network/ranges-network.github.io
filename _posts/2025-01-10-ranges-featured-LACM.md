@@ -1,7 +1,7 @@
 ---
 title: "Ranges Featured as NHM of LA Story"
 #description: Digitized Mammals
-#background: 
+background: 
     img: /assets/images/ScanningTag_LACM.png
     by: NHM of LA County ©
 #    href: https://nhm.org/stories/digitized-mammals
