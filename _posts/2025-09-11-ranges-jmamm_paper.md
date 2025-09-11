@@ -12,7 +12,7 @@ comments: false
 
 The first Ranges peer-reviewed publication has been published!
 
-[**Extending mammal specimens with the essential phenotypic traits**](https://academic.oup.com/jmammal/advance-article/doi/10.1093/jmammal/gyaf062/8214011?login=false){:target="_blank"} is now available for your pleasure in the Journal of Mammalogy. Dr. Jessica Light and the Ranges Network are featured in a news article in Texa A&M's AgriLife Magazine! DOI: https://doi.org/10.1093/jmammal/gyaf062
+[**Extending mammal specimens with the essential phenotypic traits**](https://academic.oup.com/jmammal/advance-article/doi/10.1093/jmammal/gyaf062/8214011?login=false){:target="_blank"} is now available for your pleasure in the Journal of Mammalogy. DOI: https://doi.org/10.1093/jmammal/gyaf062
 
 We offer our gratitude to the army of authors, those remarkable Rangers, and all of the good folks at JMamm (reviewers included) for making this publication possible.
 
