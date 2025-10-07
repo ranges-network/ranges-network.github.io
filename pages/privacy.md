@@ -65,7 +65,7 @@ The lifetime of cookies may vary. We use session cookies which are deleted at th
 | Consent (local storage)   | Ranges        | Technically Necessary      | Removed on demand   |
 | Google Analytics   | Google Ireland Ltd        | Statistics      | 13 months   |
 
-## 5. Using GBIF North America Region’s Help Desk
+## 5. Using Ranges’s Help Desk
 
 If you send a message to Ranges for information or assistance a “ticket” along with your email may be logged in our ticketing system. Ranges will keep details provided during a support conversation private. From time to time Ranges may add your email to an appropriate mailing list for additional information. Individuals may remove themselves from mailings by following the unsubscribe link provided in every Ranges email.
 
@@ -93,7 +93,7 @@ We will only retain your personal data for as long as reasonably necessary to fu
 
 ## 9. Your rights
 
-According to the GDPR, you are entitled to the following rights against GBIF North America Region as a data subject:
+According to the GDPR, you are entitled to the following rights against Ranges as a data subject:
 
 - Right of access (Art. 15 GDPR): You have the right to receive information on the information we are processing on you and for what purposes etc. You also have the right to request a copy of your personal data.
 - Right to rectification (Art. 16 GDPR): You have the right to have incorrect personal data corrected.
