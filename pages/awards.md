@@ -49,7 +49,7 @@ Images and the associated data will remain under the stewardship of the specimen
 
 ---------------------------
 
-## [SUBMIT YOUR APPLICATION](https://forms.gle/YQnwF8Lcf4wvg4UdA){:target="_blank"}
+## [SUBMIT YOUR APPLICATION](https://docs.google.com/forms/d/e/1FAIpQLSeCE5bP9gz7pFOBgutGHnqVq0UPS6TaWb5b5AQlqKOcNGCPyg/viewform?usp=dialog){:target="_blank"}
 
 **NOTIFICATION**: Decisions will be announced via email on or before February 20, 2026.
 
