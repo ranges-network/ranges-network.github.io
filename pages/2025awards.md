@@ -16,9 +16,12 @@ toc: true
 
 ## 2025 Lightning Presentations
 
-The Ranges Network presents two lightnigh talks given at the Ranges All-Hands Meeting, November 5, 2025.
+The Ranges Network presents two lightning talks given at the Ranges Virtual All-Hands Meeting, November 5, 2025.
 
 ### Video
 
-(COMING SOON, for real)
+<iframe
+  src="[https://www.youtube.com/embed/-cLbsKaFp7s](https://drive.google.com/file/d/1EbC01X4DrcLZAPqkeTex5qYMUBMmKjk3/view?usp=sharing)"
+  style="width:100%; height:300px;"
+></iframe>
 
