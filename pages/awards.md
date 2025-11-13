@@ -9,9 +9,9 @@ toc: true
 
 ## Ranges Imaging Mini-Awards
 
-Ranges is pleased to announce the second call for the **Ranges Imaging Mini-Awards**.
+Ranges is pleased to announce the third call for the **Ranges Imaging Mini-Awards**.
 
-**DEADLINE EXTENDED**: Applications must be submitted by **January 10, 2025, 11:59pm** ~~Pacific Time January 8, 2025, 11:59pm Pacific~~.
+**DEADLINE EXTENDED**: Applications must be submitted by **January 7, 2026, 11:59pm**
 
 ## Project Characteristics
 
@@ -24,7 +24,7 @@ Anyone affiliated with an institution in the United States can apply for a Mini-
 - Early-career scientists
 - Projects that include clear plans to increase diversity, inclusivity, and student training opportunities
 
-We have $33,000 in award money and intend to fund 10-15 small projects over the next two years.
+We have $25,000 in award money and intend to fund 5-10 small projects over the next year.
 
 ## Proposal Requirements
 
@@ -41,7 +41,7 @@ Applicants must be affiliated with an institution in the United States.
 
 ## Additional Expectations
 
-**ALL imaging must be completed BEFORE the end of the 2025 calendar year**.
+**ALL imaging must be completed BEFORE the end of the 2026 calendar year**.
 
 A final report will be due within six months of the completion of the project. The final report must include a public repository link for each specimen imaging dataset generated during the project. Additional information will be provided to projects selected for funding.
 
@@ -51,7 +51,7 @@ Images and the associated data will remain under the stewardship of the specimen
 
 ## [SUBMIT YOUR APPLICATION](https://forms.gle/YQnwF8Lcf4wvg4UdA){:target="_blank"}
 
-**NOTIFICATION**: Decisions will be announced via email on or before February 14, 2025.
+**NOTIFICATION**: Decisions will be announced via email on or before February 20, 2026.
 
 The review process will be led by Ranges PIs and Advisory Committee Members.
 
