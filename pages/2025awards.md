@@ -20,10 +20,7 @@ The Ranges Network presents two lightning talks given at the Ranges Virtual All-
 
 ### Video
 
-<iframe
-  src="https://drive.google.com/file/d/1EbC01X4DrcLZAPqkeTex5qYMUBMmKjk3/view?usp=sharing"
-  style="width:100%; height:300px;"
-></iframe>
+<iframe src="https://drive.google.com/file/d/1EbC01X4DrcLZAPqkeTex5qYMUBMmKjk3/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ### Slide Decks
 
