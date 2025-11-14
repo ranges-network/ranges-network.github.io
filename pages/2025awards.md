@@ -28,8 +28,4 @@ The Ranges Network presents two lightning talks given at the Ranges Virtual All-
 
 [Semerdjian](https://drive.google.com/uc?export=download&id=1Dshh1YNs1MgokM1LQz__AyGMLwwLNKmA)
 
-Semerdjian (Coming Soon)
-
 All slides are in PDF format. Animations and videos will not display as intended in the original slides. Please contact the [Ranges Project Manager](mailto:dbloom@vertnet.org) to request slides in their original format.
-
-(Coming Soon)
