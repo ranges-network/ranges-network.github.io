@@ -24,7 +24,7 @@ The Ranges Network presents two lightning talks given at the Ranges Virtual All-
 
 ### Slide Decks
 
-[Everson](https://drive.google.com/file/d/13NW5ROvKZoWnCTlwt5PIe90DSKulXl46/export)
+[Everson](https://drive.google.com/uc?export=download&id=13NW5ROvKZoWnCTlwt5PIe90DSKulXl46)
 
 [Semerdjian](Coming Soon)
 
