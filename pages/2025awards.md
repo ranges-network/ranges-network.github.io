@@ -26,7 +26,7 @@ The Ranges Network presents two lightning talks given at the Ranges Virtual All-
 
 [Everson](https://drive.google.com/uc?export=download&id=13NW5ROvKZoWnCTlwt5PIe90DSKulXl46)
 
-[Semerdjian](Coming Soon)
+Semerdjian (Coming Soon)
 
 All slides are in PDF format. Any animations or videos will not display as intended in the original slides. Please contact the [Ranges Project Manager](mailto:dbloom@vertnet.org) to request slides in their original format.
 
