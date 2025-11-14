@@ -25,7 +25,7 @@ The Ranges Network presents two lightning talks given at the Ranges Virtual All-
 ### Slide Decks
 
 [Everson](https://drive.google.com/uc?export=download&id=13NW5ROvKZoWnCTlwt5PIe90DSKulXl46)
-[Semerdjian](https://drive.google.com/uc?export=download&id=1FdpIrqlPC0mYOaZEM5_TaN0AHdqUcVCy)
+[Semerdjian](https://drive.google.com/uc?export=download&id=1Dshh1YNs1MgokM1LQz__AyGMLwwLNKmA)
 
 Semerdjian (Coming Soon)
 
