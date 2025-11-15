@@ -22,7 +22,7 @@ Anyone affiliated with an institution in the United States can apply for a Mini-
 - Understudied and/or diverse clades
 - Trait types currently underrepresented in existing repositories (bone shapes and densities, functional traits of soft tissue structures such as muscle PCSA or fiber architecture) 
 - Early-career scientists
-- Projects that include clear plans to increase diversity, inclusivity, and student training opportunities
+- Projects that include clear plans to build skills and expand participation across the wider community. 
 
 We have $25,000 in award money and intend to fund 5-10 small projects over the next year.
 
