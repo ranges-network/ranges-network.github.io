@@ -19,7 +19,7 @@ toc: true
 - Roxanne S. Beltran, A. Marm Kilpatrick, Stephanie K. Adamczak, Larissa T. Beumer, Max F. Czapanskiy, Sarah C. Davidson, Bryan S. McLean, Thomas Mueller, Allison R. Payne, Carmen D. Soria, Brian C. Weeks, Terrie M. Williams, Roberto Salguero-Gómez; **Integrating animal tracking and trait data to facilitate global ecological discoveries**. J Exp Biol 15 February 2025; 228 (Suppl_1): JEB247981. doi: [https://doi.org/10.1242/jeb.247981](https://doi.org/10.1242/jeb.247981)
 
 ### 2024
-- Belinne H. G., Vrla SC, Czap JE, Stevens RD.  2024.  **Wing measurements for differentiating three cryptic species of Myotis (Mammalia:  Chiroptera) that co-occur in the southeastern United States**.  Occasional Papers of the Museum of Texas Tech University.  388: 1-11
+- Belinne H. G., Vrla SC, Czap JE, Stevens RD.  2024.  **Wing measurements for differentiating three cryptic species of Myotis (Mammalia:  Chiroptera) that co-occur in the southeastern United States**.  Occasional Papers of the Museum of Texas Tech University.  388: 1-11. [PDF](https://www.depts.ttu.edu/nsrl/publications/downloads/OP388.pdf)
 
 ## Conference presentations and papers
 
