@@ -9,17 +9,17 @@ toc: true
 ---
 
 ## Datasets
-- McLean, B., Bloom, D., Lafrance, R., Guralnick, R., Santana, S., & Davis, E. (2026). **Ranges Network collected mammal trait measurements and summary from western North America (Version 1.0)**. Data set. Zenodo. [https://doi.org/10.5281/zenodo.18201648](https://doi.org/10.5281/zenodo.18201648)
+- McLean, B., Bloom, D., Lafrance, R., Guralnick, R., Santana, S., & Davis, E. (2026). **Ranges Network collected mammal trait measurements and summary from western North America (Version 1.0)**. Data set. Zenodo. [https://doi.org/10.5281/zenodo.18201648](https://doi.org/10.5281/zenodo.18201648){:target="_blank"}
 
 ## Journals
 
 ### 2025
-- Bryan S McLean, David Bloom, Edward B Davis, Robert P Guralnick, Sharlene E Santana, Julie M Allen, Heidi Amarilla-Stevens, Kayce C Bell, David C Blackburn, Jeffrey E Bradley, Robert D Bradley, Matthew D Carling, Alexandra Coconis, Jocelyn P Colella, Chris J Conroy, Joseph A Cook, Helena de Bastos Cruz Machado, John R Demboski, Katrina M Derieg, Andrew Doll, John P Dumbacher, William D Duncan, Jonathan L Dunnum, Chris Feldman, Adam W Ferguson, Kendall E Fitzgerald, Maureen E Flannery, Kelly Hood, Angela D Hornsby, Dianna Krejsa, Raphael LaFrance, Jessica E Light, Silvia E Pavan, Shalina Peterson, Adrienne Raniszewski, Eric A Rickart, Shannen Robson, Rebecca J Rowe, Dakota M Rowsey, Alyssa Semerdjian, Theodore Stankowich, Laura Steger, Richard Stevens, Katherine M Thibault, Cody W Thompson, Nathan S Upham, Alyson Wilkins, Elizabeth A Wommack, **Extending mammal specimens with their essential phenotypic traits**, Journal of Mammalogy, Volume 106, Issue 5, October 2025, Pages 1282–1291, [https://doi.org/10.1093/jmammal/gyaf062](https://doi.org/10.1093/jmammal/gyaf062)
-- Bryan S McLean, Eric A Rickart, Joseph A Cook, Robert P Guralnick, Connor J Burgin, Kristin Lohr, **Integrative species delimitation reveals an Idaho-endemic ground squirrel, Urocitellus idahoensis (Merriam 1913)**, Journal of Mammalogy, Volume 106, Issue 2, April 2025, Pages 405–429, [https://doi.org/10.1093/jmammal/gyae135](https://doi.org/10.1093/jmammal/gyae135)
-- Roxanne S. Beltran, A. Marm Kilpatrick, Stephanie K. Adamczak, Larissa T. Beumer, Max F. Czapanskiy, Sarah C. Davidson, Bryan S. McLean, Thomas Mueller, Allison R. Payne, Carmen D. Soria, Brian C. Weeks, Terrie M. Williams, Roberto Salguero-Gómez; **Integrating animal tracking and trait data to facilitate global ecological discoveries**. J Exp Biol 15 February 2025; 228 (Suppl_1): JEB247981. doi: [https://doi.org/10.1242/jeb.247981](https://doi.org/10.1242/jeb.247981)
+- Bryan S McLean, David Bloom, Edward B Davis, Robert P Guralnick, Sharlene E Santana, Julie M Allen, Heidi Amarilla-Stevens, Kayce C Bell, David C Blackburn, Jeffrey E Bradley, Robert D Bradley, Matthew D Carling, Alexandra Coconis, Jocelyn P Colella, Chris J Conroy, Joseph A Cook, Helena de Bastos Cruz Machado, John R Demboski, Katrina M Derieg, Andrew Doll, John P Dumbacher, William D Duncan, Jonathan L Dunnum, Chris Feldman, Adam W Ferguson, Kendall E Fitzgerald, Maureen E Flannery, Kelly Hood, Angela D Hornsby, Dianna Krejsa, Raphael LaFrance, Jessica E Light, Silvia E Pavan, Shalina Peterson, Adrienne Raniszewski, Eric A Rickart, Shannen Robson, Rebecca J Rowe, Dakota M Rowsey, Alyssa Semerdjian, Theodore Stankowich, Laura Steger, Richard Stevens, Katherine M Thibault, Cody W Thompson, Nathan S Upham, Alyson Wilkins, Elizabeth A Wommack, **Extending mammal specimens with their essential phenotypic traits**, Journal of Mammalogy, Volume 106, Issue 5, October 2025, Pages 1282–1291, [https://doi.org/10.1093/jmammal/gyaf062](https://doi.org/10.1093/jmammal/gyaf062){:target="_blank"}
+- Bryan S McLean, Eric A Rickart, Joseph A Cook, Robert P Guralnick, Connor J Burgin, Kristin Lohr, **Integrative species delimitation reveals an Idaho-endemic ground squirrel, Urocitellus idahoensis (Merriam 1913)**, Journal of Mammalogy, Volume 106, Issue 2, April 2025, Pages 405–429, [https://doi.org/10.1093/jmammal/gyae135](https://doi.org/10.1093/jmammal/gyae135){:target="_blank"}
+- Roxanne S. Beltran, A. Marm Kilpatrick, Stephanie K. Adamczak, Larissa T. Beumer, Max F. Czapanskiy, Sarah C. Davidson, Bryan S. McLean, Thomas Mueller, Allison R. Payne, Carmen D. Soria, Brian C. Weeks, Terrie M. Williams, Roberto Salguero-Gómez; **Integrating animal tracking and trait data to facilitate global ecological discoveries**. J Exp Biol 15 February 2025; 228 (Suppl_1): JEB247981. doi: [https://doi.org/10.1242/jeb.247981](https://doi.org/10.1242/jeb.247981){:target="_blank"}
 
 ### 2024
-- Belinne H. G., Vrla SC, Czap JE, Stevens RD.  2024.  **Wing measurements for differentiating three cryptic species of Myotis (Mammalia:  Chiroptera) that co-occur in the southeastern United States**.  Occasional Papers of the Museum of Texas Tech University.  388: 1-11. [PDF](https://www.depts.ttu.edu/nsrl/publications/downloads/OP388.pdf)
+- Belinne H. G., Vrla SC, Czap JE, Stevens RD.  2024.  **Wing measurements for differentiating three cryptic species of Myotis (Mammalia:  Chiroptera) that co-occur in the southeastern United States**.  Occasional Papers of the Museum of Texas Tech University.  388: 1-11. [PDF](https://www.depts.ttu.edu/nsrl/publications/downloads/OP388.pdf){:target="_blank"}
 
 ## Conference presentations and papers
 
@@ -57,7 +57,7 @@ toc: true
 
 ## Other Publications
 
-- [**“Digitized Mammals: How the new digitization project Ranges is unlocking the potential of NHM's Mammalogy Collection”**](https://nhm.org/stories/digitized-mammals) by Tyler Hayden
+- [**“Digitized Mammals: How the new digitization project Ranges is unlocking the potential of NHM's Mammalogy Collection”**](https://nhm.org/stories/digitized-mammals){:target="_blank"} by Tyler Hayden
 
 
 ## Thesis/Dissertations
