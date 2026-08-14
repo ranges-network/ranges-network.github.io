@@ -20,7 +20,7 @@ Traits are the morphological, reproductive, physiological and behavioral propert
 
 Ranges has identified the following traits as essential for the success of this project. This list is likely to evolve during the life of the project. This not a comprehensive list of all measurable mammal traits.
 
-[Ranges Traits List v20260515.pdf](https://drive.google.com/uc?export=download&id=1dpr0WZtb5q0yUlygp5qtrX0wvTaGC4g4)
+[Ranges Traits List v20260515.1.pdf](https://drive.google.com/uc?export=download&id=11WXPyI1giqrKhe0TEVVlzXUyAcYh5O2F)
 
 | Trait Term                 | Definition                                                                                                                                                    | Ontology Reference (Coming Soon!)     |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -94,4 +94,5 @@ Ranges has identified the following traits as essential for the success of this 
 |------------|------------------|--------------|
 | 20231221   | December 21, 2023| dbloom       |
 | 20260515   | May 15, 2026     | dbloom       |
+| 20260515.1 | Aug 14, 2026     | dbloom       |
 
